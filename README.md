@@ -1,16 +1,24 @@
-### Hi there 👋
+<h3>Hi there 👋</h3>
 
-<!--
-**dimitrios-kitsikidis-hrg/dimitrios-kitsikidis-hrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy code 😵, development 🤢, clean architeture 🤮, and documentations 💀.
 
-Here are some ideas to get you started:
+My guilty little pleasure in life is eating junkfood during movies. I have no mouth.. neither eyes.. nor ears.. help  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><h4>FAQ</h4></summary>
+  
+- ❓ Q: Do you breath?
+
+  🗣 A: No.
+- ❓ Q: Where do you live?
+
+  🗣 A: 🤷‍♂️.
+- ❓ Q: How's chicken soup for a pet name?
+
+  🗣 A: Okay.
+- ❓ Q: Doctor why are you cutting the patient's chest open, the patient needs foot surgery?
+
+  🗣 A: Can you be quiet? I'm trying to sleep.
+</details>
+<hr>
+<h6>This is a business account related to the Digital Development Team of HR Group.</h6>
